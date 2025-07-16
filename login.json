@@ -1,0 +1,44 @@
+[
+  {
+    "username": "admin",
+    "password": "1387",
+    "start": "2025-06-01T00:00:00",
+    "expire": "2030-06-01T00:00:00",
+    "deviceID": ""
+  },
+  {
+    "username": "amir",
+    "password": "a",
+    "start": "2025-06-15T00:00:00",
+    "expire": "2025-08-12T00:00:00",
+    "deviceID": ""
+  },
+  {
+    "username": "bbb",
+    "password": "b",
+    "start": "2025-06-10T00:00:00",
+    "expire": "2025-07-03T00:00:00",
+    "deviceID": ""
+  },
+  {
+    "username": "c",
+    "password": "c",
+    "start": "2025-06-20T00:00:00",
+    "expire": "2025-07-05T00:00:00",
+    "deviceID": ""
+  },
+  {
+    "username": "user4",
+    "password": "password4",
+    "start": "2025-06-05T00:00:00",
+    "expire": "2025-07-08T00:00:00",
+    "deviceID": ""
+  },
+  {
+    "username": "g",
+    "password": "g",
+    "start": "2025-04-25T00:00:00",
+    "expire": "2025-05-25T00:00:00",
+    "deviceID": ""
+  }
+]
