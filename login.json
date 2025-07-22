@@ -25,7 +25,14 @@
     "password": "nmmd18",
     "start": "2025-07-22T22:35:00",
     "expire": "2025-08-01T00:00:00",
-    "deviceID": "c64e350a-9b8e-420d-bfe4-f3ed8c0a089a"
+    "deviceID": ""
+  },
+  {
+    "username": "amin",
+    "password": "amin1",
+    "start": "2025-07-22T23:10:00",
+    "expire": "2025-08-01T00:00:00",
+    "deviceID": ""
   },
   {
     "username": "moji",
