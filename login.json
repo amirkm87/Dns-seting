@@ -28,6 +28,13 @@
     "deviceID": ""
   },
   {
+    "username": "exon",
+    "password": "exon7",
+    "start": "2025-07-23T04:55:00",
+    "expire": "2025-08-03T00:00:00",
+    "deviceID": ""
+  },
+  {
     "username": "hamed",
     "password": "hamed33",
     "start": "2025-08-23T00:00:00",
