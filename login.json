@@ -4,20 +4,47 @@
     "password": "2030",
     "start": "2025-06-01T00:00:00",
     "expire": "2030-06-01T00:00:00",
-    "deviceID": ""
+    "deviceID": "",
+    "type": "admin"
   },
   {
     "username": "GODDNS",
     "password": "FREE",
     "start": "2025-07-25T00:00:00",
     "expire": "2025-08-26T00:00:00",
-    "deviceID": ""
+    "deviceID": "",
+    "type": "premium"
   },
   {
-    "username": "",
-    "password": "",
+    "username": "guest",
+    "password": "guest123",
     "start": "2025-07-22T21:25:00",
-    "expire": "2025-06-02T00:00:00",
-    "deviceID": ""
+    "expire": "2025-09-02T00:00:00",
+    "deviceID": "",
+    "type": "basic"
+  },
+  {
+    "username": "premiumuser",
+    "password": "premium123",
+    "start": "2025-08-01T00:00:00",
+    "expire": "2026-08-01T00:00:00",
+    "deviceID": "",
+    "type": "premium"
+  },
+  {
+    "username": "basicuser",
+    "password": "basic123",
+    "start": "2025-08-01T00:00:00",
+    "expire": "2025-12-01T00:00:00",
+    "deviceID": "",
+    "type": "basic"
+  },
+  {
+    "username": "guestuser",
+    "password": "guest123",
+    "start": "2025-08-01T00:00:00",
+    "expire": "2025-08-30T00:00:00",
+    "deviceID": "",
+    "type": "basic"
   }
 ]
