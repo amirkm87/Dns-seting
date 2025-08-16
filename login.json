@@ -16,6 +16,14 @@
     "type": "basic"
   },
   {
+    "username": "1947",
+    "password": "1947vip",
+    "start": "2025-08-17T00:00:00",
+    "expire": "2025-08-26T00:00:00",
+    "deviceID": "",
+    "type": "basic"
+  },
+  {
     "username": "guest",
     "password": "guest123",
     "start": "2025-07-22T21:25:00",
