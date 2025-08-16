@@ -13,7 +13,7 @@
     "start": "2025-07-25T00:00:00",
     "expire": "2025-08-26T00:00:00",
     "deviceID": "",
-    "type": "vip"
+    "type": "basic"
   },
   {
     "username": "guest",
