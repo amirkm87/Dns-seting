@@ -33,11 +33,11 @@
   },
   {
     "username": "prouser",
-    "password": "pro123",
+    "password": "pro1234",
     "start": "2025-08-17T20:20:00",
-    "expire": "2025-08-17T22:20:00",
+    "expire": "2025-09-17T22:20:00",
     "deviceID": "",
-    "type": "premium"
+    "type": "pro"
   },
   {
     "username": "premiumuser",
